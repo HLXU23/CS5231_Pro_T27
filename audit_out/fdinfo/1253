@@ -1,0 +1,17 @@
+total 0
+dr-x------ 2 gdm gdm  0 Nov 23 20:15 .
+dr-xr-xr-x 9 gdm gdm  0 Nov 23 20:15 ..
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 1 -> socket:[27420]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 10 -> socket:[29598]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 11 -> socket:[29601]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 12 -> socket:[29655]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 13 -> socket:[32783]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 2 -> socket:[27421]
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 3 -> anon_inode:inotify
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 4 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 5 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 6 -> socket:[29588]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 7 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 8 -> socket:[29597]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 9 -> socket:[29590]

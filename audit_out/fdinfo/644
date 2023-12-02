@@ -1,0 +1,27 @@
+total 0
+dr-x------ 2 root root  0 Nov 23 20:15 .
+dr-xr-xr-x 9 root root  0 Nov 23 20:15 ..
+lr-x------ 1 root root 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 root root 64 Nov 23 20:15 1 -> socket:[21479]
+lrwx------ 1 root root 64 Nov 23 20:15 10 -> socket:[25226]
+lrwx------ 1 root root 64 Nov 23 20:15 11 -> socket:[25227]
+lrwx------ 1 root root 64 Nov 23 20:15 12 -> socket:[25228]
+lr-x------ 1 root root 64 Nov 23 20:15 13 -> anon_inode:inotify
+lr-x------ 1 root root 64 Nov 23 20:15 14 -> anon_inode:inotify
+lrwx------ 1 root root 64 Nov 23 20:15 15 -> socket:[27844]
+lrwx------ 1 root root 64 Nov 23 20:15 16 -> socket:[27846]
+lrwx------ 1 root root 64 Nov 23 20:15 17 -> anon_inode:[eventpoll]
+l-wx------ 1 root root 64 Nov 23 20:15 18 -> /run/systemd/inhibit/3.ref
+lrwx------ 1 root root 64 Nov 23 20:15 19 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 Nov 23 20:15 2 -> socket:[21479]
+lrwx------ 1 root root 64 Nov 23 20:15 20 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 Nov 23 20:15 21 -> socket:[26457]
+lrwx------ 1 root root 64 Nov 23 20:15 22 -> socket:[50807]
+lrwx------ 1 root root 64 Nov 23 20:15 23 -> socket:[50808]
+lrwx------ 1 root root 64 Nov 23 20:15 3 -> anon_inode:[eventfd]
+lrwx------ 1 root root 64 Nov 23 20:15 4 -> anon_inode:[eventfd]
+lrwx------ 1 root root 64 Nov 23 20:15 5 -> socket:[26087]
+lrwx------ 1 root root 64 Nov 23 20:15 6 -> socket:[26097]
+lrwx------ 1 root root 64 Nov 23 20:15 7 -> anon_inode:[eventfd]
+lr-x------ 1 root root 64 Nov 23 20:15 8 -> net:[4026531840]
+lr-x------ 1 root root 64 Nov 23 20:15 9 -> mnt:[4026532241]

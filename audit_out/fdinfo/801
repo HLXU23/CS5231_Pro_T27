@@ -1,0 +1,40 @@
+total 0
+dr-x------ 2 gdm gdm  0 Nov 23 20:15 .
+dr-xr-xr-x 9 gdm gdm  0 Nov 23 20:15 ..
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 1 -> socket:[28861]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 10 -> socket:[31553]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 11 -> /var/lib/gdm3/.config/pulse/2db62cacf90748d9a42baaaa064a8130-device-volumes.tdb
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 12 -> /var/lib/gdm3/.config/pulse/2db62cacf90748d9a42baaaa064a8130-stream-volumes.tdb
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 13 -> /var/lib/gdm3/.config/pulse/2db62cacf90748d9a42baaaa064a8130-card-database.tdb
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 14 -> anon_inode:inotify
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 15 -> socket:[28202]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 16 -> socket:[28204]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 17 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 18 -> socket:[28958]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 19 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 2 -> socket:[28861]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 20 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 21 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 22 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 23 -> /dev/snd/controlC0
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 24 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 26 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 27 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 28 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 29 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 3 -> socket:[27005]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 30 -> /dev/snd/controlC0
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 31 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 32 -> anon_inode:[eventfd]
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 33 -> anon_inode:inotify
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 34 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 35 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 21:08 36 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 21:08 37 -> anon_inode:[eventfd]
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 4 -> pipe:[28200]
+l-wx------ 1 gdm gdm 64 Nov 23 20:15 5 -> pipe:[28200]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 6 -> /memfd:pulseaudio (deleted)
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 7 -> pipe:[28201]
+l-wx------ 1 gdm gdm 64 Nov 23 20:15 8 -> pipe:[28201]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 9 -> socket:[31159]

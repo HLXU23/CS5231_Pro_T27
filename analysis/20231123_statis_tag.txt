@@ -1,0 +1,5 @@
+file_access(openat),7205
+external(bind),23
+external(connect),150
+exec(execve),38
+file_access(ftruncate),1

@@ -1,0 +1,17 @@
+total 0
+dr-x------ 2 gdm gdm  0 Nov 23 20:15 .
+dr-xr-xr-x 9 gdm gdm  0 Nov 23 20:15 ..
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 1 -> socket:[30379]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 10 -> socket:[31545]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 11 -> socket:[31546]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 12 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 13 -> socket:[31550]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 2 -> socket:[30380]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 3 -> socket:[29235]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 4 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 5 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 6 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 7 -> socket:[31465]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 8 -> anon_inode:[eventfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 9 -> /memfd:wayland-cursor (deleted)

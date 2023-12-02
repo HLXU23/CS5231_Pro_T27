@@ -1,0 +1,199 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Nov23 ?        00:00:52 /sbin/init splash
+root           2       0  0 Nov23 ?        00:00:00 [kthreadd]
+root           3       2  0 Nov23 ?        00:00:00 [rcu_gp]
+root           4       2  0 Nov23 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Nov23 ?        00:00:00 [netns]
+root           7       2  0 Nov23 ?        00:00:00 [kworker/0:0H]
+root           8       2  0 Nov23 ?        00:00:09 [kworker/0:1-events]
+root          10       2  0 Nov23 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Nov23 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 Nov23 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 Nov23 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 Nov23 ?        00:00:08 [rcu_sched]
+root          15       2  0 Nov23 ?        00:00:02 [migration/0]
+root          16       2  0 Nov23 ?        00:00:00 [idle_inject/0]
+root          17       2  0 Nov23 ?        00:00:00 [cpuhp/0]
+root          18       2  0 Nov23 ?        00:00:00 [cpuhp/1]
+root          19       2  0 Nov23 ?        00:00:00 [idle_inject/1]
+root          20       2  0 Nov23 ?        00:00:02 [migration/1]
+root          21       2  0 Nov23 ?        00:00:00 [ksoftirqd/1]
+root          23       2  0 Nov23 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          24       2  0 Nov23 ?        00:00:00 [cpuhp/2]
+root          25       2  0 Nov23 ?        00:00:00 [idle_inject/2]
+root          26       2  0 Nov23 ?        00:00:01 [migration/2]
+root          27       2  0 Nov23 ?        00:00:23 [ksoftirqd/2]
+root          29       2  0 Nov23 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          30       2  0 Nov23 ?        00:00:00 [cpuhp/3]
+root          31       2  0 Nov23 ?        00:00:00 [idle_inject/3]
+root          32       2  0 Nov23 ?        00:00:02 [migration/3]
+root          33       2  0 Nov23 ?        00:00:05 [ksoftirqd/3]
+root          35       2  0 Nov23 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          36       2  0 Nov23 ?        00:00:00 [kdevtmpfs]
+root          37       2  0 Nov23 ?        00:00:00 [inet_frag_wq]
+root          38       2  0 Nov23 ?        00:00:20 [kauditd]
+root          39       2  0 Nov23 ?        00:00:00 [khungtaskd]
+root          40       2  0 Nov23 ?        00:00:00 [oom_reaper]
+root          41       2  0 Nov23 ?        00:00:00 [writeback]
+root          42       2  0 Nov23 ?        00:00:06 [kcompactd0]
+root          43       2  0 Nov23 ?        00:00:00 [ksmd]
+root          44       2  0 Nov23 ?        00:00:00 [khugepaged]
+root          54       2  0 Nov23 ?        00:00:08 [kworker/1:1-events]
+root          93       2  0 Nov23 ?        00:00:00 [kintegrityd]
+root          94       2  0 Nov23 ?        00:00:00 [kblockd]
+root          95       2  0 Nov23 ?        00:00:00 [blkcg_punt_bio]
+root          96       2  0 Nov23 ?        00:00:00 [tpm_dev_wq]
+root          97       2  0 Nov23 ?        00:00:00 [ata_sff]
+root          98       2  0 Nov23 ?        00:00:00 [md]
+root          99       2  0 Nov23 ?        00:00:00 [edac-poller]
+root         100       2  0 Nov23 ?        00:00:00 [devfreq_wq]
+root         101       2  0 Nov23 ?        00:00:00 [watchdogd]
+root         103       2  0 Nov23 ?        00:00:22 [kworker/3:1H-kblockd]
+root         105       2  0 Nov23 ?        00:00:00 [kswapd0]
+root         106       2  0 Nov23 ?        00:00:00 [ecryptfs-kthrea]
+root         109       2  0 Nov23 ?        00:00:00 [kthrotld]
+root         110       2  0 Nov23 ?        00:00:00 [acpi_thermal_pm]
+root         111       2  0 Nov23 ?        00:00:00 [scsi_eh_0]
+root         112       2  0 Nov23 ?        00:00:00 [scsi_tmf_0]
+root         113       2  0 Nov23 ?        00:00:00 [scsi_eh_1]
+root         114       2  0 Nov23 ?        00:00:00 [scsi_tmf_1]
+root         116       2  0 Nov23 ?        00:00:00 [vfio-irqfd-clea]
+root         119       2  0 Nov23 ?        00:00:00 [mld]
+root         120       2  0 Nov23 ?        00:00:00 [ipv6_addrconf]
+root         129       2  0 Nov23 ?        00:00:00 [kstrp]
+root         132       2  0 Nov23 ?        00:00:00 [zswap-shrink]
+root         133       2  0 Nov23 ?        00:00:00 [kworker/u9:0]
+root         138       2  0 Nov23 ?        00:00:00 [charger_manager]
+root         172       2  0 Nov23 ?        00:00:31 [kworker/1:1H-kblockd]
+root         185       2  0 Nov23 ?        00:01:40 [kworker/3:2-events]
+root         189       2  0 Nov23 ?        00:00:00 [scsi_eh_2]
+root         190       2  0 Nov23 ?        00:00:00 [scsi_tmf_2]
+root         193       2  0 Nov23 ?        00:00:19 [kworker/2:1H-kblockd]
+root         198       2  0 Nov23 ?        00:00:20 [kworker/0:1H-kblockd]
+root         217       2  0 Nov23 ?        00:00:03 [jbd2/sda5-8]
+root         218       2  0 Nov23 ?        00:00:00 [ext4-rsv-conver]
+root         258       1  2 Nov23 ?        00:06:37 /lib/systemd/systemd-journald
+root         291       2  0 Nov23 ?        00:00:00 [ttm_swap]
+root         292       2  0 Nov23 ?        00:00:00 [irq/18-vmwgfx]
+root         293       2  0 Nov23 ?        00:00:00 [card0-crtc0]
+root         294       2  0 Nov23 ?        00:00:00 [card0-crtc1]
+root         295       2  0 Nov23 ?        00:00:00 [card0-crtc2]
+root         296       2  0 Nov23 ?        00:00:00 [card0-crtc3]
+root         297       2  0 Nov23 ?        00:00:00 [card0-crtc4]
+root         298       2  0 Nov23 ?        00:00:00 [card0-crtc5]
+root         299       2  0 Nov23 ?        00:00:00 [card0-crtc6]
+root         300       2  0 Nov23 ?        00:00:00 [card0-crtc7]
+root         310       1  0 Nov23 ?        00:00:01 /lib/systemd/systemd-udevd
+root         369       2  0 Nov23 ?        00:00:00 [cryptd]
+systemd+     581       1  0 Nov23 ?        00:00:01 /lib/systemd/systemd-resolved
+systemd+     587       1  0 Nov23 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         634       1  0 Nov23 ?        00:00:04 /usr/lib/accountsservice/accounts-daemon
+root         635       1  0 Nov23 ?        00:00:00 /usr/sbin/acpid
+avahi        638       1  0 Nov23 ?        00:00:02 avahi-daemon: running [student-VirtualBox.local]
+root         639       1  0 Nov23 ?        00:00:00 /usr/sbin/cron -f
+message+     642       1  0 Nov23 ?        00:00:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         644       1  0 Nov23 ?        00:00:05 /usr/sbin/NetworkManager --no-daemon
+root         651       1  0 Nov23 ?        00:00:05 /usr/sbin/irqbalance --foreground
+root         654       1  0 Nov23 ?        00:00:01 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         656       1  0 Nov23 ?        00:00:05 /usr/lib/policykit-1/polkitd --no-debug
+syslog       660       1  0 Nov23 ?        00:00:01 /usr/sbin/rsyslogd -n -iNONE
+root         661       1  0 Nov23 ?        00:00:11 /usr/lib/snapd/snapd
+root         662       1  0 Nov23 ?        00:00:00 /usr/libexec/switcheroo-control
+root         669       1  0 Nov23 ?        00:00:00 /lib/systemd/systemd-logind
+root         672       1  0 Nov23 ?        00:00:00 /usr/lib/udisks2/udisksd
+root         673       1  0 Nov23 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        678     638  0 Nov23 ?        00:00:00 avahi-daemon: chroot helper
+root         727       1  0 Nov23 ?        00:00:00 /usr/sbin/ModemManager --filter-policy=strict
+root         738       1  0 Nov23 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         764       1  0 Nov23 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         765       1  0 Nov23 ?        00:00:00 /usr/sbin/gdm3
+root         774     765  0 Nov23 ?        00:00:00 gdm-session-worker [pam/gdm-launch-environment]
+gdm          795       1  0 Nov23 ?        00:00:01 /lib/systemd/systemd --user
+gdm          796     795  0 Nov23 ?        00:00:00 (sd-pam)
+gdm          801     795  0 Nov23 ?        00:00:02 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+gdm          803     795  0 Nov23 ?        00:00:00 /usr/libexec/tracker-miner-fs
+gdm          805     774  0 Nov23 tty1     00:00:00 /usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          808     795  0 Nov23 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+rtkit        817       1  0 Nov23 ?        00:00:01 /usr/libexec/rtkit-daemon
+gdm          833     805  0 Nov23 tty1     00:00:00 dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          834     833  0 Nov23 tty1     00:00:00 dbus-daemon --nofork --print-address 4 --session
+gdm          835     795  0 Nov23 ?        00:00:00 /usr/libexec/gvfsd
+gdm          836     833  0 Nov23 tty1     00:00:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+gdm          843     795  0 Nov23 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/125/gvfs -f -o big_writes
+gdm          852     795  0 Nov23 ?        00:00:01 /usr/libexec/gvfs-udisks2-volume-monitor
+gdm          875     795  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+whoopsie     883       1  0 Nov23 ?        00:00:00 /usr/bin/whoopsie -f
+gdm          889     795  0 Nov23 ?        00:00:00 /usr/libexec/goa-daemon
+kernoops     890       1  0 Nov23 ?        00:00:02 /usr/sbin/kerneloops --test
+kernoops     901       1  0 Nov23 ?        00:00:02 /usr/sbin/kerneloops
+gdm          947     836  0 Nov23 tty1     00:00:41 /usr/bin/gnome-shell
+gdm          977     795  0 Nov23 ?        00:00:00 /usr/libexec/goa-identity-service
+gdm          982     795  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+gdm          987     795  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+gdm          993     795  0 Nov23 ?        00:00:07 /usr/libexec/gvfs-afc-volume-monitor
+root        1002       1  0 Nov23 ?        00:00:02 /usr/lib/upower/upowerd
+gdm         1079       1  0 Nov23 tty1     00:00:00 /usr/libexec/at-spi-bus-launcher
+gdm         1084    1079  0 Nov23 tty1     00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm         1089     947  0 Nov23 tty1     00:00:00 /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/125/.mutter-Xwaylandauth.0DTRE2 -listen 4 -listen 5 -displayfd 6 -listen 7
+gdm         1107       1  0 Nov23 tty1     00:00:00 /usr/libexec/xdg-permission-store
+gdm         1118       1  0 Nov23 tty1     00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+gdm         1119       1  0 Nov23 tty1     00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm         1129     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-sharing
+gdm         1130     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-wacom
+gdm         1134     836  0 Nov23 tty1     00:00:01 /usr/libexec/gsd-color
+gdm         1137     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-keyboard
+gdm         1140     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-print-notifications
+gdm         1141     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-rfkill
+gdm         1142     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-smartcard
+gdm         1143     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-datetime
+gdm         1146     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-media-keys
+gdm         1150     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-screensaver-proxy
+gdm         1151     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-sound
+gdm         1157     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-a11y-settings
+gdm         1158     836  0 Nov23 tty1     00:00:03 /usr/libexec/gsd-housekeeping
+gdm         1169     836  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-power
+gdm         1210       1  0 Nov23 tty1     00:00:00 /usr/libexec/gsd-printer
+colord      1242       1  0 Nov23 ?        00:00:01 /usr/libexec/colord
+gdm         1253     947  0 Nov23 tty1     00:00:00 ibus-daemon --panel disable -r --xim
+gdm         1260    1253  0 Nov23 tty1     00:00:00 /usr/libexec/ibus-dconf
+gdm         1262       1  0 Nov23 tty1     00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm         1267       1  0 Nov23 tty1     00:00:00 /usr/libexec/ibus-portal
+gdm         1285    1253  0 Nov23 tty1     00:00:00 /usr/libexec/ibus-engine-simple
+root        1301     764  0 Nov23 ?        00:00:00 sshd: student [priv]
+student     1304       1  0 Nov23 ?        00:00:00 /lib/systemd/systemd --user
+student     1305    1304  0 Nov23 ?        00:00:00 (sd-pam)
+student     1310    1304  0 Nov23 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+student     1312    1304  0 Nov23 ?        00:00:03 /usr/libexec/tracker-miner-fs
+student     1313    1304  0 Nov23 ?        00:00:00 /usr/bin/ubuntu-report service
+student     1315    1304  0 Nov23 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+student     1335    1304  0 Nov23 ?        00:00:00 /usr/libexec/gvfsd
+student     1343    1304  0 Nov23 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+student     1367    1304  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+student     1382    1304  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+student     1388    1304  0 Nov23 ?        00:00:00 /usr/libexec/goa-daemon
+student     1404    1304  0 Nov23 ?        00:00:00 /usr/libexec/goa-identity-service
+student     1424    1304  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+student     1438    1304  0 Nov23 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+student     1455    1304  0 Nov23 ?        00:00:07 /usr/libexec/gvfs-afc-volume-monitor
+student     1456    1301  0 Nov23 ?        00:00:04 sshd: student@pts/0
+student     1461    1456  0 Nov23 pts/0    00:00:01 -bash
+root        3371       2  0 Nov23 ?        00:00:00 [audit_prune_tre]
+root        3437       2  0 Nov23 ?        00:00:00 [kworker/2:2-cgroup_destroy]
+root        4651       2  0 Nov23 ?        00:00:00 [kworker/1:0-cgroup_destroy]
+root        4855       2  0 Nov23 ?        00:00:00 [kworker/0:2-cgroup_destroy]
+root        4864       2  0 00:00 ?        00:00:01 [kworker/2:0-events]
+root        4867       2  0 00:00 ?        00:00:00 [kworker/3:0-events]
+root        4879       1  0 00:00 ?        00:00:00 /usr/sbin/cupsd -l
+root        4880       1  0 00:00 ?        00:00:00 /usr/sbin/cups-browsed
+lp          4882    4879  0 00:00 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp          4883    4879  0 00:00 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root        4906       2  0 00:24 ?        00:00:00 [kworker/u8:2-events_unbound]
+root        4910       2  0 00:32 ?        00:00:10 [kworker/u8:1-events_unbound]
+root        4916       2  0 00:40 ?        00:00:00 [kworker/u8:0-events_unbound]
+root        5485       2  0 00:47 ?        00:00:00 [kworker/1:2-events]
+root        5488       2  0 00:47 ?        00:00:00 [kworker/u8:3-events_unbound]
+root        5567    1461  0 00:50 pts/0    00:00:00 sudo ./audit-ctl.sh start
+root        5568    5567  0 00:50 pts/0    00:00:00 /bin/bash ./audit-ctl.sh start
+root        5571    5568  0 00:50 pts/0    00:00:00 sudo bash /home/student/proj_tools/audit/config.sh
+root        5572    5571  0 00:50 pts/0    00:00:00 bash /home/student/proj_tools/audit/config.sh
+root        5581    5572  0 00:50 pts/0    00:00:00 ps -ef

@@ -1,0 +1,18 @@
+total 0
+dr-x------ 2 root root  0 Nov 23 20:15 .
+dr-xr-xr-x 9 root root  0 Nov 23 20:15 ..
+lr-x------ 1 root root 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 root root 64 Nov 23 20:15 1 -> socket:[24679]
+lr-x------ 1 root root 64 Nov 23 20:15 10 -> pipe:[25128]
+l-wx------ 1 root root 64 Nov 23 20:15 11 -> pipe:[25128]
+l-wx------ 1 root root 64 Nov 23 20:15 13 -> pipe:[25129]
+l-wx------ 1 root root 64 Nov 23 20:15 14 -> pipe:[26106]
+lrwx------ 1 root root 64 Nov 23 20:15 15 -> /var/log/cups/access_log
+lrwx------ 1 root root 64 Nov 23 20:15 2 -> socket:[24679]
+lrwx------ 1 root root 64 Nov 23 20:15 3 -> socket:[22445]
+lrwx------ 1 root root 64 Nov 23 20:15 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 Nov 23 20:15 5 -> socket:[24917]
+lrwx------ 1 root root 64 Nov 23 20:15 6 -> socket:[25125]
+lrwx------ 1 root root 64 Nov 23 20:15 7 -> socket:[25126]
+lr-x------ 1 root root 64 Nov 23 20:15 8 -> pipe:[25127]
+l-wx------ 1 root root 64 Nov 23 20:15 9 -> pipe:[25127]

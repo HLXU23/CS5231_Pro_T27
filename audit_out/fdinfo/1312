@@ -1,0 +1,24 @@
+total 0
+dr-x------ 2 student student  0 Nov 23 20:16 .
+dr-xr-xr-x 9 student student  0 Nov 23 20:16 ..
+lr-x------ 1 student student 64 Nov 23 20:16 0 -> /dev/null
+lrwx------ 1 student student 64 Nov 23 20:16 1 -> socket:[35092]
+lr-x------ 1 student student 64 Nov 23 20:16 10 -> /home/student/.cache/tracker/meta.db
+lrwx------ 1 student student 64 Nov 23 20:16 11 -> /home/student/.cache/tracker/meta.db-wal
+lrwx------ 1 student student 64 Nov 23 20:16 12 -> /home/student/.cache/tracker/meta.db-shm
+l-wx------ 1 student student 64 Nov 23 20:16 13 -> /home/student/.local/share/tracker/data/tracker-store.journal
+lr-x------ 1 student student 64 Nov 23 20:16 14 -> anon_inode:inotify
+lr-x------ 1 student student 64 Nov 23 20:16 15 -> /home/student/.cache/tracker/meta.db
+lrwx------ 1 student student 64 Nov 23 20:16 16 -> /home/student/.cache/tracker/meta.db-wal
+lr-x------ 1 student student 64 Nov 23 20:16 17 -> /home/student/.cache/tracker/meta.db
+lrwx------ 1 student student 64 Nov 23 20:16 18 -> /home/student/.cache/tracker/meta.db-wal
+lr-x------ 1 student student 64 Nov 23 20:16 19 -> /home/student/.cache/tracker/meta.db
+lrwx------ 1 student student 64 Nov 23 20:16 2 -> socket:[35092]
+lrwx------ 1 student student 64 Nov 23 20:16 20 -> /home/student/.cache/tracker/meta.db-wal
+lrwx------ 1 student student 64 Nov 23 20:16 3 -> socket:[33852]
+lrwx------ 1 student student 64 Nov 23 20:16 4 -> anon_inode:[eventfd]
+lrwx------ 1 student student 64 Nov 23 20:16 5 -> anon_inode:[eventfd]
+lrwx------ 1 student student 64 Nov 23 20:16 6 -> socket:[33853]
+lrwx------ 1 student student 64 Nov 23 20:16 7 -> anon_inode:[eventfd]
+lrwx------ 1 student student 64 Nov 23 20:16 8 -> anon_inode:[eventfd]
+lrwx------ 1 student student 64 Nov 23 20:16 9 -> socket:[35280]

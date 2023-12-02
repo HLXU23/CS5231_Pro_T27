@@ -1,0 +1,19 @@
+total 0
+dr-x------ 2 colord colord  0 Nov 23 20:15 .
+dr-xr-xr-x 9 colord colord  0 Nov 23 20:15 ..
+lr-x------ 1 colord colord 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 colord colord 64 Nov 23 20:15 1 -> socket:[32416]
+lrwx------ 1 colord colord 64 Nov 23 20:15 10 -> socket:[30488]
+lrwx------ 1 colord colord 64 Nov 23 20:15 11 -> socket:[32419]
+lrwx------ 1 colord colord 64 Nov 23 20:15 12 -> anon_inode:[eventfd]
+lr-x------ 1 colord colord 64 Nov 23 20:15 13 -> anon_inode:inotify
+lrwx------ 1 colord colord 64 Nov 23 20:15 14 -> socket:[30503]
+lrwx------ 1 colord colord 64 Nov 23 20:15 15 -> socket:[30504]
+lrwx------ 1 colord colord 64 Nov 23 20:15 2 -> socket:[32416]
+lrwx------ 1 colord colord 64 Nov 23 20:15 3 -> anon_inode:[eventfd]
+lrwx------ 1 colord colord 64 Nov 23 20:15 4 -> socket:[32418]
+lrwx------ 1 colord colord 64 Nov 23 20:15 5 -> /var/lib/colord/mapping.db
+lrwx------ 1 colord colord 64 Nov 23 20:15 6 -> /var/lib/colord/storage.db
+lrwx------ 1 colord colord 64 Nov 23 20:15 7 -> /var/lib/colord/storage.db
+lrwx------ 1 colord colord 64 Nov 23 20:15 8 -> anon_inode:[eventfd]
+lrwx------ 1 colord colord 64 Nov 23 20:15 9 -> socket:[30502]

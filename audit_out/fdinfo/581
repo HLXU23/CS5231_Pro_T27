@@ -1,0 +1,18 @@
+total 0
+dr-x------ 2 systemd-resolve systemd-resolve  0 Nov 23 20:15 .
+dr-xr-xr-x 9 systemd-resolve systemd-resolve  0 Nov 23 20:15 ..
+lr-x------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 1 -> socket:[21165]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 10 -> anon_inode:[timerfd]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 11 -> anon_inode:[timerfd]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 12 -> socket:[21321]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 13 -> socket:[21322]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 14 -> socket:[21347]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 2 -> socket:[21165]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 3 -> socket:[21313]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 4 -> anon_inode:[eventpoll]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 5 -> anon_inode:[signalfd]
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 6 -> anon_inode:[timerfd]
+lr-x------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 7 -> /proc/sys/kernel/hostname
+lr-x------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 8 -> anon_inode:inotify
+lrwx------ 1 systemd-resolve systemd-resolve 64 Nov 23 20:15 9 -> socket:[21318]

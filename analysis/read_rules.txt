@@ -1,0 +1,9 @@
+file_access,syscall,-a always,exit -S open,creat,truncate,ftruncate,openat,open_by_handle_at -k file_access
+exec,syscall,-a always,exit -S execve,execveat -k exec
+socket_IPv4_TCP,syscall,-a always,exit -S socket -F a0=2 -F a1=1 -k socket_IPv4_TCP
+socket_Ipv4_UDP,syscall,-a always,exit -S socket -F a0=2 -F a1=2  -k socket_Ipv4_UDP
+socket_IPv6_TCP,syscall,-a always,exit -S socket -F a0=10 -F a1=1 -k socket_IPv6_TCP
+socket_IPv6_UDP,syscall,-a always,exit -S socket -F a0=10 -F a1=2 -k socket_IPv6_UDP
+external,syscall,-a always,exit -S connect,accept,bind -k external
+curl,syscall,-a always,exit -S all -F exe=/usr/bin/curl -k curl
+secret,file,-w /home/student/secret -p rwx -k secret

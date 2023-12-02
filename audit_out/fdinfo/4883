@@ -1,0 +1,8 @@
+total 0
+dr-x------ 2 lp lp  0 Nov 24 00:46 .
+dr-xr-xr-x 9 lp lp  0 Nov 24 00:00 ..
+lr-x------ 1 lp lp 64 Nov 24 00:46 0 -> pipe:[53592]
+l-wx------ 1 lp lp 64 Nov 24 00:46 1 -> /dev/null
+l-wx------ 1 lp lp 64 Nov 24 00:46 2 -> pipe:[53590]
+lrwx------ 1 lp lp 64 Nov 24 00:46 3 -> socket:[53605]
+lrwx------ 1 lp lp 64 Nov 24 00:46 4 -> anon_inode:[eventpoll]

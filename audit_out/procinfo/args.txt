@@ -1,0 +1,199 @@
+COMMAND
+/sbin/init splash
+[kthreadd]
+[rcu_gp]
+[rcu_par_gp]
+[netns]
+[kworker/0:0H]
+[kworker/0:1-events]
+[mm_percpu_wq]
+[rcu_tasks_rude_]
+[rcu_tasks_trace]
+[ksoftirqd/0]
+[rcu_sched]
+[migration/0]
+[idle_inject/0]
+[cpuhp/0]
+[cpuhp/1]
+[idle_inject/1]
+[migration/1]
+[ksoftirqd/1]
+[kworker/1:0H-events_highpri]
+[cpuhp/2]
+[idle_inject/2]
+[migration/2]
+[ksoftirqd/2]
+[kworker/2:0H-events_highpri]
+[cpuhp/3]
+[idle_inject/3]
+[migration/3]
+[ksoftirqd/3]
+[kworker/3:0H-events_highpri]
+[kdevtmpfs]
+[inet_frag_wq]
+[kauditd]
+[khungtaskd]
+[oom_reaper]
+[writeback]
+[kcompactd0]
+[ksmd]
+[khugepaged]
+[kworker/1:1-events]
+[kintegrityd]
+[kblockd]
+[blkcg_punt_bio]
+[tpm_dev_wq]
+[ata_sff]
+[md]
+[edac-poller]
+[devfreq_wq]
+[watchdogd]
+[kworker/3:1H-kblockd]
+[kswapd0]
+[ecryptfs-kthrea]
+[kthrotld]
+[acpi_thermal_pm]
+[scsi_eh_0]
+[scsi_tmf_0]
+[scsi_eh_1]
+[scsi_tmf_1]
+[vfio-irqfd-clea]
+[mld]
+[ipv6_addrconf]
+[kstrp]
+[zswap-shrink]
+[kworker/u9:0]
+[charger_manager]
+[kworker/1:1H-kblockd]
+[kworker/3:2-events]
+[scsi_eh_2]
+[scsi_tmf_2]
+[kworker/2:1H-kblockd]
+[kworker/0:1H-kblockd]
+[jbd2/sda5-8]
+[ext4-rsv-conver]
+/lib/systemd/systemd-journald
+[ttm_swap]
+[irq/18-vmwgfx]
+[card0-crtc0]
+[card0-crtc1]
+[card0-crtc2]
+[card0-crtc3]
+[card0-crtc4]
+[card0-crtc5]
+[card0-crtc6]
+[card0-crtc7]
+/lib/systemd/systemd-udevd
+[cryptd]
+/lib/systemd/systemd-resolved
+/lib/systemd/systemd-timesyncd
+/usr/lib/accountsservice/accounts-daemon
+/usr/sbin/acpid
+avahi-daemon: running [student-VirtualBox.local]
+/usr/sbin/cron -f
+/usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+/usr/sbin/NetworkManager --no-daemon
+/usr/sbin/irqbalance --foreground
+/usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+/usr/lib/policykit-1/polkitd --no-debug
+/usr/sbin/rsyslogd -n -iNONE
+/usr/lib/snapd/snapd
+/usr/libexec/switcheroo-control
+/lib/systemd/systemd-logind
+/usr/lib/udisks2/udisksd
+/sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi-daemon: chroot helper
+/usr/sbin/ModemManager --filter-policy=strict
+/usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+/usr/sbin/gdm3
+gdm-session-worker [pam/gdm-launch-environment]
+/lib/systemd/systemd --user
+(sd-pam)
+/usr/bin/pulseaudio --daemonize=no --log-target=journal
+/usr/libexec/tracker-miner-fs
+/usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+/usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+/usr/libexec/rtkit-daemon
+dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+dbus-daemon --nofork --print-address 4 --session
+/usr/libexec/gvfsd
+/usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+/usr/libexec/gvfsd-fuse /run/user/125/gvfs -f -o big_writes
+/usr/libexec/gvfs-udisks2-volume-monitor
+/usr/libexec/gvfs-goa-volume-monitor
+/usr/bin/whoopsie -f
+/usr/libexec/goa-daemon
+/usr/sbin/kerneloops --test
+/usr/sbin/kerneloops
+/usr/bin/gnome-shell
+/usr/libexec/goa-identity-service
+/usr/libexec/gvfs-mtp-volume-monitor
+/usr/libexec/gvfs-gphoto2-volume-monitor
+/usr/libexec/gvfs-afc-volume-monitor
+/usr/lib/upower/upowerd
+/usr/libexec/at-spi-bus-launcher
+/usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+/usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/125/.mutter-Xwaylandauth.0DTRE2 -listen 4 -listen 5 -displayfd 6 -listen 7
+/usr/libexec/xdg-permission-store
+/usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+/usr/libexec/at-spi2-registryd --use-gnome-session
+/usr/libexec/gsd-sharing
+/usr/libexec/gsd-wacom
+/usr/libexec/gsd-color
+/usr/libexec/gsd-keyboard
+/usr/libexec/gsd-print-notifications
+/usr/libexec/gsd-rfkill
+/usr/libexec/gsd-smartcard
+/usr/libexec/gsd-datetime
+/usr/libexec/gsd-media-keys
+/usr/libexec/gsd-screensaver-proxy
+/usr/libexec/gsd-sound
+/usr/libexec/gsd-a11y-settings
+/usr/libexec/gsd-housekeeping
+/usr/libexec/gsd-power
+/usr/libexec/gsd-printer
+/usr/libexec/colord
+ibus-daemon --panel disable -r --xim
+/usr/libexec/ibus-dconf
+/usr/libexec/ibus-x11 --kill-daemon
+/usr/libexec/ibus-portal
+/usr/libexec/ibus-engine-simple
+sshd: student [priv]
+/lib/systemd/systemd --user
+(sd-pam)
+/usr/bin/pulseaudio --daemonize=no --log-target=journal
+/usr/libexec/tracker-miner-fs
+/usr/bin/ubuntu-report service
+/usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+/usr/libexec/gvfsd
+/usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+/usr/libexec/gvfs-udisks2-volume-monitor
+/usr/libexec/gvfs-goa-volume-monitor
+/usr/libexec/goa-daemon
+/usr/libexec/goa-identity-service
+/usr/libexec/gvfs-mtp-volume-monitor
+/usr/libexec/gvfs-gphoto2-volume-monitor
+/usr/libexec/gvfs-afc-volume-monitor
+sshd: student@pts/0
+-bash
+[audit_prune_tre]
+[kworker/2:2-cgroup_destroy]
+[kworker/1:0-cgroup_destroy]
+[kworker/0:2-cgroup_destroy]
+[kworker/2:0-events]
+[kworker/3:0-events]
+/usr/sbin/cupsd -l
+/usr/sbin/cups-browsed
+/usr/lib/cups/notifier/dbus dbus://
+/usr/lib/cups/notifier/dbus dbus://
+[kworker/u8:2-events_unbound]
+[kworker/u8:1-events_unbound]
+[kworker/u8:0-events_unbound]
+[kworker/1:2-events]
+[kworker/u8:3-writeback]
+sudo ./audit-ctl.sh start
+/bin/bash ./audit-ctl.sh start
+sudo bash /home/student/proj_tools/audit/config.sh
+bash /home/student/proj_tools/audit/config.sh
+ps -eo args

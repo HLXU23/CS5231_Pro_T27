@@ -1,0 +1,35 @@
+total 0
+dr-x------ 2 gdm gdm  0 Nov 23 20:15 .
+dr-xr-xr-x 9 gdm gdm  0 Nov 23 20:15 ..
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 0 -> /dev/null
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 1 -> socket:[28101]
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 10 -> /proc/795/mountinfo
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 11 -> anon_inode:inotify
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 12 -> anon_inode:inotify
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 13 -> anon_inode:inotify
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 14 -> /proc/swaps
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 15 -> socket:[28126]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 16 -> socket:[26990]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 17 -> socket:[26991]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 18 -> socket:[26992]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 19 -> socket:[26993]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 2 -> socket:[28101]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 20 -> socket:[26994]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 21 -> anon_inode:[timerfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 26 -> socket:[26998]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 27 -> socket:[26999]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 28 -> socket:[27000]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 29 -> socket:[27001]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 3 -> socket:[28124]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 30 -> socket:[27002]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 31 -> socket:[27003]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 32 -> socket:[27004]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 33 -> socket:[27005]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 34 -> socket:[27006]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 35 -> socket:[27068]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 4 -> anon_inode:[eventpoll]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 5 -> anon_inode:[signalfd]
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 6 -> anon_inode:inotify
+lr-x------ 1 gdm gdm 64 Nov 23 20:15 7 -> /sys/fs/cgroup/unified/user.slice/user-125.slice/user@125.service
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 8 -> anon_inode:[timerfd]
+lrwx------ 1 gdm gdm 64 Nov 23 20:15 9 -> anon_inode:[eventpoll]
